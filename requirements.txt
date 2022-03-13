@@ -1,0 +1,19 @@
+# local package install
+-e .
+
+# third party packages
+dvc
+dvc[gdrive]
+sklearn
+pandas
+pytest
+tox
+flake8
+flask
+gunicorn
+mlflow
+tqdm==4.63.0
+xgboost==1.5.2
+Shapely==1.8.1.post1
+globe==1.0.1
+xgboost
